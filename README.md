@@ -14,5 +14,5 @@ A Discord bot that monitors specific users for avatar changes and sends notifica
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/blan3bo1/discord-avatar-monitor
    cd discord-avatar-monitor
