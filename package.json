@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node src/bot/index.js",
     "dev": "nodemon src/bot/index.js",
-    "deploy": "node deploy-commands.js"
+    "deploy": "node deploy-commands.js",
+    "register": "node register-commands.js"
   },
   "keywords": [
     "discord",
